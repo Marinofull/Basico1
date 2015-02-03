@@ -27,7 +27,6 @@ int main()
         printf("%d\n", soma);
     }
 
-
     // for (i = 0; i < n; ++i)
     // {
     //     printf("%d ", v[i]);
